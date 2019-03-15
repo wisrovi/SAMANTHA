@@ -18,7 +18,7 @@ seguidamente, en Telegram, inicias una nueva conversación con el Bot que has cr
 
 El bot te contestará en texto en una conversación mas o menos fluida, e ira aprendiendo conforme hayas hablando con ella.
 
-En cualquier momento de la conversación puedes teclear el comando: /AUDIO_ON, y el bot iniciará a responderte a todo lo que le escribas con un audio para cada respuesta, esto hace muy llamativo al bot, dado que da la ilución de estar hablando con otra persona, pero no hay que confundirse, este bot es por ahora academco, aún no supera el test de turing.
+En cualquier momento de la conversación puedes teclear el comando: /AUDIO_ON, y el bot iniciará a responderte a todo lo que le escribas con un audio para cada respuesta, esto hace muy llamativo al bot, dado que da la ilución de estar hablando con otra persona, pero no hay que confundirse, este bot es por ahora académico, aún no supera el test de turing.
 
 Para desactivar las respuestas por voz, puedes teclar el comando: /AUDIO_OFF
 
